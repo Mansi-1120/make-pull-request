@@ -1,1 +1,1 @@
-Images/snaps
+Images/snaps/picture
